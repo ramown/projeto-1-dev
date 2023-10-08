@@ -1,0 +1,1 @@
+const M = "mercado pago";
